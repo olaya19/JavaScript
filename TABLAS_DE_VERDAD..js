@@ -23,7 +23,7 @@ console.log("|  T  |  F  |    T     |")
 console.log("|  F  |  T  |    T     |")
 console.log("|  F  |  F  |    F     |")
 
-// Tabla de verdad del operador ! (NOT), utilizando la negacion.
+// Tabla de verdad del operador ! (NOT), utilizando la negacion ¬.
 console.log("\n Tabla de verdad del operador ! (NOT)")
 console.log("\n|   P   |   ¬P   |")
 console.log("|   T   |    F   |")
